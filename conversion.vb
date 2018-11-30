@@ -1,4 +1,4 @@
-Option Explicit
+Option Explicit 'DOCUMENT USES REPEATED CODE, HAS NOT BEEN OPTIMIZED
 
 'Uses recursion to check for non-blank cells in Copay to determine whether HDHP or PPO
 Private Function recursive_blank_check(cell As range, last_row As Long, i As Integer) As Boolean
