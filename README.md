@@ -11,3 +11,6 @@ All data is test data.
 ### organization-metrics
 A helper macro to improve readability of licensing data.
 Workforce management.
+
+### web_scraping
+Share price web scraping and practice modules.
